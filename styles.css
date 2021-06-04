@@ -1,0 +1,32 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #696667FF;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: lightgray;
+    padding: 30px;
+    font-size: 70px;
+}
+
+#searchForm {
+    background-color: #964F4CFF;
+    padding: 70px;
+    box-shadow: 0 8px 6px -6px black;
+}
+
+#searchTerm {
+    margin: 20px;
+    font-size: 40px;
+}
+
+#searchEngine {
+    margin: 10px;
+    font-size: 60px;
+}
+
+button:hover {
+    background-color: #567572FF;
+}
